@@ -20,10 +20,9 @@ public class Main {
         //Сохранить сериализованные объекты GameProgress в папку savegames из предыдущей задачи.
 
 
-        saveGame (savegamesWay + "save1.dat", gg1);
-        saveGame (savegamesWay + "save2.dat", gg2);
-        saveGame (savegamesWay + "save3.dat", gg3);
-
+        saveGame(savegamesWay + "save1.dat", gg1);
+        saveGame(savegamesWay + "save2.dat", gg2);
+        saveGame(savegamesWay + "save3.dat", gg3);
 
 
         // Путь к архиву
