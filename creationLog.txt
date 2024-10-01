@@ -1,0 +1,13 @@
+Лог
+Не удалось создать папку: M://Java//task//02JavaSE//Games//src
+Не удалось создать папку: M://Java//task//02JavaSE//Games//res
+Не удалось создать папку: M://Java//task//02JavaSE//Games//savegames
+Не удалось создать папку: M://Java//task//02JavaSE//Games//temp
+Не удалось создать папку: M://Java//task//02JavaSE//Games//src//main
+Не удалось создать папку: M://Java//task//02JavaSE//Games//src//test
+Не удалось создать папку: M://Java//task//02JavaSE//Games//res//drawables
+Не удалось создать папку: M://Java//task//02JavaSE//Games//res//vectors
+Не удалось создать папку: M://Java//task//02JavaSE//Games//res//icons
+Файл успешно создан: M://Java//task//02JavaSE//Games//src//main//Main.Java
+Файл успешно создан: M://Java//task//02JavaSE//Games//src//main//Utils.Java
+Не удалось создать файл: M://Java//task//02JavaSE//Games//temp//temp.txt
